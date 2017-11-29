@@ -1,2 +1,2 @@
-# akabrayan.ggithub.io
+# akabrayan.github.io
 Esketit
